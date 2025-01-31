@@ -9,7 +9,7 @@
   },
   "imports": {
     "#subpath-import": {
-      "node": "./subpath-node.js",
+      "node": "process",
       "default": "./subpath-default.js"
     }
   }

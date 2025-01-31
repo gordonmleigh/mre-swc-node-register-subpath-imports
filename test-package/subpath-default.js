@@ -1,1 +1,1 @@
-export const SubpathCondition = "default"
+export const arch = "hijacked";

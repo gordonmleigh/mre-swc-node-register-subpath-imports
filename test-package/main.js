@@ -1,3 +1,1 @@
-import {SubpathCondition} from '#subpath-import'
-
-export { SubpathCondition};
+export { arch } from "#subpath-import";

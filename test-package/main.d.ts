@@ -1,1 +1,1 @@
-export const SubpathCondition: string
+export const arch: string;
