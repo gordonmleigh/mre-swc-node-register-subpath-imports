@@ -1,6 +1,6 @@
 # Subpath imports are broken in [@swc-node/register](https://github.com/swc/swc-node) v1.10.1 and later
 
-This repository contains a Minimum Reproducible Example for this bug.
+This repository contains a Minimum Reproducible Example for [swc-project/swc-node#895](https://github.com/swc-project/swc-node/issues/895).
 
 To reproduce, run the following:
 
