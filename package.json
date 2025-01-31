@@ -1,0 +1,12 @@
+{
+  "name": "@gordonmleigh/mre-swc-node-register-subpath-imports",
+  "private": "true",
+  "type": "module",
+  "scripts": {
+    "start": "node --import @swc-node/register/esm-register test.js"
+  },
+  "dependencies": {
+    "@gordonmleigh/mre-test-package": "file:test-package",
+    "@swc-node/register": "~1.10.1"
+  }
+}

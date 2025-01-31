@@ -1,0 +1,16 @@
+{
+  "name": "@gordonmleigh/mre-test-package",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./main.d.ts",
+      "default": "./main.js"
+    }
+  },
+  "imports": {
+    "#subpath-import": {
+      "node": "./subpath-node.js",
+      "default": "./subpath-default.js"
+    }
+  }
+}
